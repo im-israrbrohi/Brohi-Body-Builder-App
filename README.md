@@ -9,8 +9,9 @@
 ℹ️ About This App Page – includes developer info and social media links. 
 ⚡ Lightweight & Fast – no unnecessary bloat, just pure fitness resources.    --- 
 
-📖 About the Developer  This app is created by Israr Brohi, a Computer Science student, electronics repairer, and passionate fitness learner. The goal is to merge technology + bodybuilding knowledge into one handy app.   ---  📥 Installation  
-1. Clone the repository:  git clone https://github.com/yourusername/BrohiBodyBuilder.git
+📖 About the Developer  This app is created by Israr Brohi, a Computer Science student, electronics repairer, and passionate fitness learner. The goal is to merge technology + bodybuilding knowledge into one handy app.   --- 
+📥 Installation  
+1. Clone the repository:  git clone https://github.com/im-israrbrohi/BrohiBodyBuilder.git
 2.  2. Open in Android Studio.
 3.  3. Build & run on an Android device (minimum SDK 21).     ---
 
